@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "ilclient",
+    "name": "IlClient",
+    "description": "1.12.2 Anarchy PvP Client",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "logoFile": "ilclient.png",
+    "url": "https://discord.gg/Pemvs9jmzQ",
+    "updateUrl": "https://discord.gg/Pemvs9jmzQ",
+    "authorList": ["Crystallinqq"],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
